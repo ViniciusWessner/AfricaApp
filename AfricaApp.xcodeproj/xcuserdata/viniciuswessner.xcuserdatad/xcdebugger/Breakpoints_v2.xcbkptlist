@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FD715E2E-7BB3-4BA0-8B30-F4A32697F0EB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35D32328-0983-40A1-955D-A97BD7B3C59E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AfricaApp/Helper/VideoPlayerHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "35D32328-0983-40A1-955D-A97BD7B3C59E - a5bdbbfb1dfbeb68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for videoPlayer"
+                  moduleName = "AfricaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/viniciuswessner/Desktop/Apps/Africa-app/Students/AfricaApp/AfricaApp/Helper/VideoPlayerHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "35D32328-0983-40A1-955D-A97BD7B3C59E - 12d9c2fd3aae09a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AfricaApp.videoPlayer.unsafeMutableAddressor : Swift.Optional&lt;__C.AVPlayer&gt;"
+                  moduleName = "AfricaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/viniciuswessner/Desktop/Apps/Africa-app/Students/AfricaApp/AfricaApp/Helper/VideoPlayerHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
